@@ -1,11 +1,3 @@
-/**
-* Title: AVL Trees & Heap
-* Author: Daib Malik
-* ID: 22201013
-* Section : 1
-* Homework: 2
-* Description : Implementation of TreeNode
-*/
 #ifndef HW2_202_TREENODE_H
 #define HW2_202_TREENODE_H
 
@@ -22,4 +14,4 @@ public:
 
 
 
-#endif //HW2_202_TREENODE_H
+#endif 
