@@ -1,12 +1,3 @@
-/**
-* Title: AVL Trees & Heap
-* Author: Daib Malik
-* ID: 22201013
-* Section : 1
-* Homework: 2
-* Description : Header file for AVL
-*/
-
 #ifndef HW2_202_AVL_H
 #define HW2_202_AVL_H
 #include "TreeNode.h"
