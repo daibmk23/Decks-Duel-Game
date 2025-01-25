@@ -1,0 +1,34 @@
+33
+a 1
+g
+a 2
+a 6
+a 8
+a 10
+g
+a 4
+g
+r
+g
+a 13
+r
+r
+a 6
+a 18
+a 12
+r
+a 4
+r
+r
+g
+a 10
+g
+r
+a 6
+r
+a 12
+r
+a 15
+r
+r
+g

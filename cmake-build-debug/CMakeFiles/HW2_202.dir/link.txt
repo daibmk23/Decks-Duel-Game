@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/HW2_202.dir/main.cpp.o CMakeFiles/HW2_202.dir/Heap.cpp.o CMakeFiles/HW2_202.dir/least5.cpp.o CMakeFiles/HW2_202.dir/AVL.cpp.o CMakeFiles/HW2_202.dir/game.cpp.o CMakeFiles/HW2_202.dir/prefixsubarray.cpp.o CMakeFiles/HW2_202.dir/subarray.cpp.o -o HW2_202 

@@ -1,0 +1,13 @@
+1.Case studies should be run like this(redirect your screen output to a file like below):
+
+./simulator log1.txt 5 > output1.txt
+./simulator log2.txt 15 > output2.txt
+./simulator log3.txt 46 > output3.txt
+./simulator log3.txt 17 > output4.txt
+
+To test:
+1.Copy the test*.cpp and the Makefile in your directory
+(Must not be the same one where you have your codes and own Makefile, also copy your output*.txt files there)
+2.Modify the Makefile by including the path of your cloned google test directory
+3.make build
+4.make run
