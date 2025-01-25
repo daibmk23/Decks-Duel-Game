@@ -1,12 +1,3 @@
-/**
-* Title: AVL Trees & Heap
-* Author: Daib Malik
-* ID: 22201013
-* Section : 1
-* Homework: 2
-* Description : Cpp file for Heap, which has operations to add/delete to/from heap and check if heap is empty
-*/
-
 #include "Heap.h"
 #include "iostream"
 using namespace std;
