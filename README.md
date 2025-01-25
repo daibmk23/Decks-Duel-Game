@@ -1,6 +1,6 @@
 # Decks-Duel-Game
 An optimal card game strategy using AVL trees and minheaps
-##########################################################
+
 ### **Game Overview**
 The game involves two players, each starting with an equal number of cards. Each card has a unique number. Players take turns playing cards, with the following rules:
 
